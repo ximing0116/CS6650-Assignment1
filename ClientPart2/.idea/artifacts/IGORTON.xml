@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="IGORTON">
+    <output-path>$PROJECT_DIR$/out/artifacts/localhost:8080/IGORTON/</output-path>
+    <root id="archive" name="IGORTON.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CS6650_2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="CS6650_2/web/Web" />
+    </root>
+  </artifact>
+</component>
